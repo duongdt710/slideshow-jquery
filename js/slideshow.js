@@ -29,4 +29,5 @@ $(document).ready(function() {
 	setInterval(function(){
 		$('#next').click();
 	}, 3000);
+	
 });
